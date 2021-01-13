@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 使用主题时-建议使用沉浸式状态栏 -->
+    <!--  基础主题  -->
+    <color name="colorPrimary">#ededed</color>
+    <color name="colorPrimaryDark">#ededed</color>
+    <color name="colorAccent">#06c15f</color>
+
+    <!--  顶部工具栏  -->
+    <color name="toolbar_msg_tips_bg">#f95350</color>
+    <color name="toolbar_bg_color">#ededed</color>
+    <color name="toolbar_title_color">#101010</color>
+    <color name="toolbar_text_color">#171717</color>
+    <color name="toolbar_text_color_selected">#101010</color>
+
+    <!--  搜索栏-在toolbar上的  -->
+    <color name="search_bar_bg_color">#1a1a1a</color>
+    <color name="search_bar_icon_color">#b2b2b2</color>
+    <color name="search_bar_text_hint_color">#b2b2b2</color>
+    <color name="search_bar_text_color">#191919</color>
+
+    <!--  底部导航栏  -->
+    <color name="bottom_bar_msg_tips_bg">#f95350</color>
+    <color name="bottom_bar_bg_color">#f7f7f7</color>
+    <color name="bottom_bar_text_color">#181818</color>
+    <color name="bottom_bar_text_color_selected">#06c15f</color>
+
+    <!--  页面整体背景色  -->
+    <color name="root_bg_color">#ededed</color>
+    <color name="root_bg_color_pressed">#e1e1e1</color>
+
+    <!--  Dialog颜色  -->
+    <color name="dialog_bg_color">#ffffff</color>
+    <color name="dialog_divider_color">#e5e5e5</color>
+
+    <!--  单个条目的颜色  -->
+    <color name="item_bg_color">#ffffff</color>
+    <color name="item_bg_color_pressed">#f1f1f1</color>
+    <color name="item_divider_color">#e5e5e5</color>
+    <color name="item_msg_tips_color">#fff7f8</color>
+    <color name="item_msg_tips_bg_color">#f85350</color>
+    <color name="item_arrow_right_color">#b2b2b2</color>
+
+    <!--  类似SnakeBar颜色  -->
+    <color name="area_tips_text_color">#767676</color>
+    <color name="area_tips_bg">#f7f7f7</color>
+
+    <!--  正文1级标题  -->
+    <color name="title_color">#171717</color>
+    <color name="title_hint_color">#373737</color>
+    <color name="title_color_selected">#101010</color>
+    <!--  二级标题  -->
+    <color name="sub_title_color">#191919</color>
+    <color name="sub_title_hint_color">#e5e5e5</color>
+    <color name="sub_title_color_selected">#101010</color>
+
+    <!--  正文颜色  -->
+    <color name="text_color">#191919</color>
+    <color name="text_hint_color">#e5e5e5</color>
+    <color name="text_color_selected">#101010</color>
+    <!--  二级正文  -->
+    <color name="sub_text_color">#5e5e5e</color>
+    <color name="sub_text_hint_color">#9e9e9e</color>
+    <color name="sub_text_color_selected">#3e3e3e</color>
+
+    <!--  button颜色  -->
+    <color name="ok_btn_text_color">#06c15f</color>
+    <color name="cancel_btn_text_color">#191919</color>
+
+    <!--  悬浮按钮颜色  -->
+    <color name="float_btn_bg">#ffffff</color>
+    <color name="float_btn_text_color">#171717</color>
+
+    <!--  供紧急情况（或懒人）使用扩展的颜色，以下颜色可以根据自己需要变更颜色值  -->
+    <color name="extra_color_01">#FF0000</color>
+    <color name="extra_color_02">#00FF00</color>
+    <color name="extra_color_03">#0000FF</color>
+    <color name="extra_color_04">#FFFF00</color>
+    <color name="extra_color_05">#FF00FF</color>
+    <color name="extra_color_06">#00FFFF</color>
+    <color name="extra_color_07">#336699</color>
+    <color name="extra_color_08">#663399</color>
+    <color name="extra_color_09">#669933</color>
+    <color name="extra_color_10">#996633</color>
+    <color name="extra_color_11">#993366</color>
+    <color name="extra_color_12">#339966</color>
+</resources>
